@@ -6,14 +6,14 @@ Domain: Industrial Energy Analytics
 Tech Stack: Python, Google Colab, Prophet, Pandas, Matplotlib
 Approach: Time Series Forecasting + Anomaly Detection
 
-📌 Objectives
-📈 Forecast household or industrial energy consumption.
+## Objectives
+ Forecast household or industrial energy consumption.
 
-⚠️ Detect anomalies that could indicate abnormal operations.
+Detect anomalies that could indicate abnormal operations.
 
-🧠 Demonstrate how AI can enhance energy efficiency and reliability in industrial or smart grid systems.
+Demonstrate how AI can enhance energy efficiency and reliability in industrial or smart grid systems.
 
-🗂 Dataset
+## Dataset
 Source: UCI Machine Learning Repository – Individual household electric power consumption
 
 Format: Time-stamped measurements of electrical variables over four years.
@@ -28,7 +28,7 @@ Voltage
 
 Sub_metering_1, 2, 3
 
-🛠 Methods
+## Methods
 ✅ Preprocessing
 Parse dates and clean missing values.
 
